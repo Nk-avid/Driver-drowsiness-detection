@@ -1,0 +1,9 @@
+numpy
+opencv-python
+dlib
+imutils
+scipy
+playsound
+argparse
+face_recognition
+pygame
